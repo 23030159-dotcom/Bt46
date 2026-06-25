@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Ứng dụng xét duyệt khoản vay đề tài 8 Hoàng Vũ Tuấn Anh")
+st.title("Ứng dụng xét duyệt khoản vay đề tài 7 Hoàng Vũ Tuấn Anh")
 
 # Nhập dữ liệu
 STV = st.number_input("Nhập số tiền muốn vay (triệu đồng)", min_value=0.0)
